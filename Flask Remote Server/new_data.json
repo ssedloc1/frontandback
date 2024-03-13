@@ -1,0 +1,20 @@
+[
+    {
+        "Time_sampled": "V_RMS",
+        "V_RMS": "I_RMS",
+        "I_RMS": "Real_Power",
+        "Real_Power": "Reactive_Power",
+        "Reactive_Power": "Apparent_Power",
+        "Apparent_Power": "Power_Factor",
+        "Power_Factor": ""
+    },
+    {
+        "Time_sampled": 120.0,
+        "V_RMS": 13.0,
+        "I_RMS": 10.0,
+        "Real_Power": 2.5,
+        "Reactive_Power": 1.5,
+        "Apparent_Power": 3.0,
+        "Power_Factor": ""
+    }
+]
